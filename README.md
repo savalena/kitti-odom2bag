@@ -1,4 +1,5 @@
 # Description
+The repo is for converting KITTI odometry data sequences to rosbag files.
 
 # Instalation
 ## Requirements
